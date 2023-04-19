@@ -5,9 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an admin dashboard for a super_app using react.js.
-- 🌱 I’m currently learning DEVOPS from Udacity and Software Engineer from ALX SE.
-- 👯 I’m looking to collaborate on Devop projects using ansible playbook and circleci for CICD
-- 🤔 I’m looking for help with Resolving ssh permision into ec2 instance when automating CICD on circleci
+- 🌱 I’m certified DEVOPS and cloud developer engineer from Udacity.
+- 👯 I’m looking to collaborate on Devop and Cloud Projects.
 - 💬 Ask me about reactjs and devops.
 - ⚡ Fun fact: Love learning everyday and passionate to become a devop engineer
 
